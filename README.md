@@ -12,4 +12,7 @@ https://pypi.org/project/FlightRadarAPI/
 <br>
 <br>
 Live script available at:<br>
-https://replit.com/@cwbads22/Airports-Stats
+https://replit.com/@cwbads22/Airports-Stats<br>
+<br>
+* Learn more at:<br>
+https://www.redemet.aer.mil.br/
